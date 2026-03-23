@@ -103,22 +103,9 @@ This creates a **race condition**, a common issue in multitasking systems.
 
 ---
 
-## ⚠️ Key Insight
-
-* Multiple tasks accessing the same resource without control leads to conflicts
-* This behavior highlights the need for synchronization mechanisms
-
----
-
-## 🚀 Next Step
-
-The next part introduces **semaphores**, which allow proper synchronization between tasks, ensuring controlled and predictable LED behavior.
-
----
-
 ## 📚 Conclusion
 
-This part demonstrates how multitasking can lead to conflicts when shared resources are not properly managed. It sets the foundation for understanding synchronization in real-time systems.
+This part demonstrates how multitasking can lead to conflicts when shared resources are not properly managed, highlighting the importance of synchronization in real-time systems.
 
 ---
 
